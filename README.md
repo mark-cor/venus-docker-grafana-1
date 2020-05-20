@@ -22,7 +22,7 @@ Make sure to go online and learn more about it.
 
 An example of a dashboard:
 
-![hydro power docker example](https://raw.githubusercontent.com/victronenergy/venus-docker-grafana/master/readme-resources/hydro%20grafana.jpg)
+![hydro power docker example](readme-resources/hydro%20grafana.jpg)
 
 ## 1. Requirements
 
@@ -92,7 +92,7 @@ Clisk `Save` to start collecting data
 
 ### 2.2 Host in on Amazon AWS or another cloud provider.
 
-This section needs explaining. Pull requests welcome.
+See the [AWS instructions](AWS.md).
 
 ## 3. Influxdb Retention Policy
 
